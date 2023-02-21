@@ -40,7 +40,7 @@
       experience,
       status,
       salary: 3000,
-      githubUrl: 'https://github.com/Bezik1/Bezik1'
+      githubUrl: 'https://github.com/Bezik1'
     })
   }
   
