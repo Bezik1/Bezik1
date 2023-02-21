@@ -49,5 +49,9 @@
     })
   }
   
-  hireNewDev({ 'Mateusz', 0 })
+  hireNewDev({
+    devName: 'Mateusz',
+    expierience: 0,
+    active: true
+})
 ```
