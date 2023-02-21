@@ -20,11 +20,12 @@
 * ethers.js
 * @usedapp
 
+
+
 ```typescript
   interface Developer {
     devName: string
     experience: number
-    status:
   }
   
   interface NewDeveloper extends Developer {
@@ -33,7 +34,7 @@
   }
   
   const devs: Developer[] = []
-  const hireNewDev = ({ devName, experience, status } : NewDeveloper) =>{
+  const hireNewDev = ({ devName, experience } : NewDeveloper) =>{
     devs.push({
       devName,
       experience,
@@ -43,5 +44,5 @@
     })
   }
   
-  hireNewDev()
+  hireNewDev({ 'Mateusz', 0 })
 ```
