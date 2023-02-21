@@ -21,7 +21,7 @@
 * @usedapp
 
 ```typescript
-  enum Status {
+  enum Status = {
     hired = 'Hired',
     unemployed = 'Unemployed
   }
