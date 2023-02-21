@@ -21,10 +21,6 @@
 * @usedapp
 
 ```typescript
-  enum Status = {
-    hired = 'Hired',
-    unemployed = 'Unemployed
-  }
   interface Developer {
     devName: string
     experience: number
