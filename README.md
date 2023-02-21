@@ -26,22 +26,24 @@
 
 
 ```typescript
-  interface Developer {
+  interface NewDeveloper {
     devName: string
     experience: number
+    active: boolean
   }
   
-  interface NewDeveloper extends Developer {
+  interface Developer extends NewDeveloper {
     githubUrl: string
     salary: number
   }
   
   const devs: Developer[] = []
-  const hireNewDev = ({ devName, experience } : NewDeveloper) =>{
+  const hireNewDev = ({ devName, experience, active } : NewDeveloper) =>{
     devs.push({
       devName,
       experience,
       status,
+      active,
       salary: 3000,
       githubUrl: 'https://github.com/Bezik1'
     })
