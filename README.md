@@ -20,7 +20,7 @@
 * ethers.js
 * @usedapp
 
-```
+```typescript
   enum Status {
     hired = 'Hired',
     unemployed = 'Unemployed
