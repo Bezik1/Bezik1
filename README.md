@@ -12,6 +12,7 @@
 **Technologies**
 * numpy
 * python
+
 **Alghoritms**
 * gradient descent
 * backpropagation
