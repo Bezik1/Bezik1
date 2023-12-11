@@ -8,6 +8,17 @@
 * gsap
 * react-three/fiber (react + THREE.js)
 
+## :computer: Machine Learning
+**Technologies**
+* numpy
+* python
+**Alghoritms**
+* gradient descent
+* backpropagation
+**Skills**
+* Implementing network structure
+* OOP
+
 ## :computer: Backend developer
 **Technologies**
 * Nest.js
