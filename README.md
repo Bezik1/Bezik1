@@ -16,6 +16,7 @@
 **Alghoritms**
 * gradient descent
 * backpropagation
+
 **Skills**
 * Implementing network structure
 * OOP
