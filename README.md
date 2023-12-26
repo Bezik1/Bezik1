@@ -1,4 +1,21 @@
 # :wave: Hi, I'm Mateusz and also
+
+## :computer: Machine Learning
+**Technologies**
+* numpy
+* python
+
+**Alghoritms**
+* stochiastic gradient descent
+* BPTT
+* R2 regulation
+* backpropagation
+
+**Skills**
+* Implementing deep neural network structure
+* Implementing recurent neural network structure
+* OOP
+
 ## :man_technologist: Frontend developer
 
 **Technologies**
@@ -7,19 +24,6 @@
 * React
 * gsap
 * react-three/fiber (react + THREE.js)
-
-## :computer: Machine Learning
-**Technologies**
-* numpy
-* python
-
-**Alghoritms**
-* gradient descent
-* backpropagation
-
-**Skills**
-* Implementing network structure
-* OOP
 
 ## :computer: Backend developer
 **Technologies**
