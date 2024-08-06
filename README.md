@@ -4,6 +4,7 @@
 **Technologies**
 * numpy
 * python
+* pytorch
 
 **Alghoritms**
 * stochiastic gradient descent
@@ -15,6 +16,9 @@
 * Implementing deep neural network structure
 * Implementing recurent neural network structure
 * OOP
+* LLMs
+* Convulational Neural Networks
+* Transformers
 
 ## :man_technologist: Frontend developer
 
