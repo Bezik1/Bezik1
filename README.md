@@ -5,6 +5,9 @@
 * numpy
 * python
 * pytorch
+* pytorch lightning
+* torchvision
+* matplotlib
 
 **Alghoritms**
 * stochiastic gradient descent
@@ -19,6 +22,10 @@
 * LLMs
 * Convulational Neural Networks
 * Transformers
+
+**Languages**
+* Java
+* Swift
 
 ## :man_technologist: Frontend developer
 
