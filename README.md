@@ -48,11 +48,6 @@
 * ethers.js
 * @usedapp
 
-## :electron: Electron developer
-
-## :sunglasses: React Native Developer
-
-
 ```typescript
   interface NewDeveloper {
     devName: string
