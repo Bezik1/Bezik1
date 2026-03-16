@@ -1,80 +1,8 @@
-# :wave: Hi, I'm Mateusz and also
-
 ## :computer: Machine Learning
 **Technologies**
-* numpy
-* python
-* pytorch
-* pytorch lightning
-* torchvision
-* matplotlib
 
-**Alghoritms**
-* stochiastic gradient descent
-* BPTT
-* R2 regulation
-* backpropagation
-
-**Skills**
-* Implementing deep neural network structure
-* Implementing recurent neural network structure
-* OOP
-* LLMs
-* Convulational Neural Networks
-* Transformers
-
-**Languages**
-* Java
-* Swift
-
-## :man_technologist: Frontend developer
-
-**Technologies**
-* JavaScript
-* TypeScript
-* React
-* gsap
-* react-three/fiber (react + THREE.js)
-
-## :computer: Backend developer
-**Technologies**
-* Nest.js
-* MongoDB
-* MySQL
-* REST API
-
-## :atom_symbol: WEB3 developer
-**Technologies**
-* ethers.js
-* @usedapp
-
-```typescript
-  interface NewDeveloper {
-    devName: string
-    experience: number
-    active: boolean
-  }
-  
-  interface Developer extends NewDeveloper {
-    githubUrl: string
-    salary: number
-  }
-  
-  const devs: Developer[] = []
-  const hireNewDev = ({ devName, experience, active } : NewDeveloper) =>{
-    devs.push({
-      devName,
-      experience,
-      status,
-      active,
-      salary: 3000,
-      githubUrl: 'https://github.com/Bezik1'
-    })
-  }
-  
-  hireNewDev({
-    devName: 'Mateusz',
-    expierience: 0,
-    active: true
-})
-```
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,pytorch,javascript,typescript,react,vite,css,html,java,spring,postgres,mongo,mysql,vscode,github,git" />
+    </a>
+</p>
