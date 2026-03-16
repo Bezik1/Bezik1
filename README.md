@@ -1,5 +1,4 @@
-## :computer: Machine Learning
-**Technologies**
+## :computer: Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
